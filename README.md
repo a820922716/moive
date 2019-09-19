@@ -4,7 +4,7 @@
 
 🎉 查看页面UI请点击：[https://sesine.com/mina](https://sesine.com/mina/) 
 
-🌠 此项目使用了大部分微信的api，封装了一些UI组件。如果对您有帮助，请给一个⭐️Star。如果在使用过程中发现问题，请给我 [反馈](https://github.com/sesine/wechat-weapp-movie/issues/new) 我会尽量在第一时间解决。
+🌠 此项目使用了大部分微信的api，封装了一些UI组件。如果对您有帮助，请给一个⭐️Star。如果在使用过程中发现问题，请给我 [反馈] 我会尽量在第一时间解决。
 
 ## 🔌 使用方法
 
@@ -13,10 +13,7 @@
 3. 域名设置
 - 如果有自己的APPID，可以使用自己的APPID，并在微信后台添加可信域名 `https://sesine.com/` 和 `https://sesine.com/mina/api/`。
 - 如果没有自己的APPID，可以使用测试APPID。开发时勾选 `不校验合法域名、web-view（业务域名）、TLS 版本以及 HTTPS 证书` 的选项，如果需要在手机上预览，并且出现api无法访问的问题。请在 [微信小程序测试号管理](https://developers.weixin.qq.com/sandbox) 里面添加上一条中的二个可信域名。
-4. 开发、体验与反馈。发现问题时，可以给我 [反馈](https://github.com/sesine/wechat-weapp-movie/issues/new)
-
-
-## ❤️ 感谢与支持
+4. 开发、体验与反馈。发现问题时，可以给我 [反馈]
 - 豆瓣api https://sesine.com/ (代理豆瓣api)
 
 > 由于微信服务器请求豆瓣api次数过多，已经禁止微信小程序请求。请使用新的api地址请求，请将原来的api请求地址从 `https://api.douban.com/v2/` 改为 `https://sesine.com/mina/api/` 即可，api请求的参数不变。
